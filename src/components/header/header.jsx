@@ -34,7 +34,7 @@ export default function header() {
             <span className="topbarIconBadge">1</span>
           </div>
         </div>
-        <img src="/assets/person/1.jpg" alt="no dp" className="topbarImg" />
+        <img src="/assets/person/1.png" alt="no dp" className="topbarImg" />
       </div>
 
         
